@@ -1,0 +1,4 @@
+alice,80%
+tobin,16%
+arjun,26%
+akshay,36%
